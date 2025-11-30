@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+My Blog, for me.
 
-Maybe say a some things about yourself.
+I am Kevin.
 
-Or maybe what you plan to blog about.
+I love Cheekaroos!
