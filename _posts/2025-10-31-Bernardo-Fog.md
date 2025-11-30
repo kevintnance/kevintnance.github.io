@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fog ft. Car"
+title: "Bernardo Fog"
 author: "Kevin Nance"
 categories: monthly
 tags: [monthly]
