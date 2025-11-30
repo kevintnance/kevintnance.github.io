@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Add about info. Kevin
+I am Kevin.

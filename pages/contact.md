@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-Add contact information. Kevin 
+Email: kevintnance@gmail.com
