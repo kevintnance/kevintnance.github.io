@@ -4,3 +4,19 @@
   margin: 10px auto 10px;
   padding: 0px 10px 10px;
 }
+
+@media (max-width: $container-width) {
+  .subscribe-content {
+    width: 60vw;
+    display: block;
+    margin: 10px auto 10px;
+  }
+}
+
+@media (max-width: $tablet-width) {
+  .subscribe-content {
+    width: 95vw;
+    display: block;
+    margin: 10px auto 10px;
+  }
+}
