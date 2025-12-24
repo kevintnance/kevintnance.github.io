@@ -1,3 +1,2 @@
 Chicago.html test
-index test
 index.html test
