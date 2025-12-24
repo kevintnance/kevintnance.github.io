@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Monthly Posts
-category: monthly
-permalink: /monthly-posts
+title: Posts
+category: posts
+permalink: /posts
 ---
