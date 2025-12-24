@@ -1,3 +1,11 @@
-index.html testy
+index.html test
 Chicago.html test
-index.html testy
+404.html test
+about.html test
+Bernardo-Fog.html test
+contact.html test
+documentation.html test
+posts.html test
+resources.html test
+Skyak.html test
+subscribe.html test
