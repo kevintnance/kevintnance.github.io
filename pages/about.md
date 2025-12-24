@@ -5,4 +5,4 @@ permalink: /about
 image: SD-Hike.JPEG
 ---
 
-I am Kevin.
+I am Kevin. I like the outdoors.
